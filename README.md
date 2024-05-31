@@ -1,4 +1,4 @@
-Arduino Tabanlı Araç Park Sistemi Projesi Raporu
+Arduino Tabanlı Araç Park Sistemi Projesi 
 
 Grup üyeleri
 
